@@ -1,4 +1,4 @@
-Welcome to UX-WORLD - created by Manoj Thomas Chelakkattil
+Welcome to UX-WORLD - created by 
 ==========================================================
 
 My first repository on GitHub.
